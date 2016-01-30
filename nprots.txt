@@ -1,4 +1,4 @@
-branch 2
+branch 2;
+new commit;
+conflict;
 
-new commit
-conflict
