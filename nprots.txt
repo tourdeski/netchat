@@ -1,3 +1,4 @@
 branch 2
 
 new commit
+conflict
